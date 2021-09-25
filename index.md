@@ -20,7 +20,7 @@
 ### Project Inclusion:
 
 
-###[     Link to Chosen Artifact]
+###[     Link to Chosen Artifact](https://github.com/bahb007/Capstone/tree/gh-pages/Project%20Artifact%20Originals)
 
 The artifact I chose for this was pieces taken from two seperate projects in different classes Data Structures and Algorithms and CLient/Sever Development.
 
