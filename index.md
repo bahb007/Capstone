@@ -32,12 +32,12 @@ The enhancements I intend to implement will take the dataset in the form of a .c
 The enhancements/update I intent to implement will use the skills I have been learning to take the basic C++ program we created in our class and making it into a more professional quality program that is much more user friendly then it was to begin with.  This will begin with updating the program to a newer and easier programming language for readability and editing on the programmer’s side, this will ease the process of making these updates and any future updates and changes required of the program.  Updating the program setup adding the authentication and access process will begin to implement security features and create a protected database in line with the information security best practices and lay the foundation to prevent exploits or vulnerabilities in the future.  
 
 
-## [Enhancement One Reflection:]
+## [Enhancement One Reflection:](https://github.com/bahb007/Capstone/tree/gh-pages/Michno%20eBids%20Project%20Milestone%20Two)
 
 
-## [Enhancement Two Reflection:]
+## [Enhancement Two Reflection:](https://github.com/bahb007/Capstone/tree/gh-pages/Michno%20eBids%20Project%20Milestone%20Three)
 
 
-## [Enhancement Three Reflection:]
+## [Enhancement Three Reflection:](https://github.com/bahb007/Capstone/tree/gh-pages/Michno%20eBids%20Project%20Milestone%20Four)
 
 
