@@ -42,3 +42,4 @@ For my second enhancement I was taking an element form my CS-340 class where we 
 For the third enhancement and bringing everything together I was trying to get the bids stored in MongoDB which I set up a free server to hold instead of trying to set up a physical server on my home PC.  The dashboard provides a nice graphical interface and is more user friendly though in the end it is lacking all the functions I desired.  Created nested menus proved to be much more difficult than I had anticipated.  I had wanted the menus to drop down with options to add/edit/delete as required and when I could not get all that to work I tried to allow editing without the drop down system but ran out of time to get it all completed.  I have added functions for sorting and deleting but just need more time to puzzle it out.
 
 
+## [Link to my Final Project Code :](https://github.com/bahb007/Capstone/tree/gh-pages/Final%20Project%20Code)
